@@ -409,37 +409,24 @@ header {
   }
 
 }
-
-/* HEADER UPGRADE */
-
 header {
-  background: #111;
-  color: white;
-  padding: 20px 10px;
-  text-align: center;
-  border-bottom: 3px solid #c00;
+  background: #111 !important;
+  color: white !important;
+  padding: 20px 10px !important;
+  text-align: center !important;
+  border-bottom: 3px solid #c00 !important;
 }
 
 header h1 {
-  font-size: 32px;
-  font-weight: bold;
-  letter-spacing: 1px;
-}
-
-/* NAV STYLE */
-
-nav {
-  margin-top: 10px;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  letter-spacing: 1px !important;
 }
 
 nav a {
-  color: #ddd;
-  margin: 0 12px;
-  text-decoration: none;
-  font-size: 14px;
-  font-weight: 500;
+  color: #ddd !important;
 }
 
 nav a:hover {
-  color: #fff;
+  color: #fff !important;
 }
