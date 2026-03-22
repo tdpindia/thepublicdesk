@@ -389,7 +389,7 @@ header {
 
   /* FEATURED IMAGE */
   .featured-card img {
-    height: auto;
+    height: 200 px;
   }
 
   /* NAVIGATION */
