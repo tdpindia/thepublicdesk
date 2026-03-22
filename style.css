@@ -430,3 +430,33 @@ nav a {
 nav a:hover {
   color: #fff !important;
 }
+/* FEATURED SECTION UPGRADE */
+
+.featured-card {
+  background: white;
+  border: 1px solid #ddd;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.featured-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.featured-content {
+  padding: 15px;
+}
+
+.featured-content h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.featured-content p {
+  color: #555;
+  line-height: 1.5;
+}
